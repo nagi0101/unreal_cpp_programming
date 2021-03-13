@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FirstProject-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Collider.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\ColliderMovementComponent.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Critter.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FirstProject.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FirstProjectGameModeBase.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FloatingPlatform.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FloorSwitch.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Main.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\MainAnimInstance.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\MyObject.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\SpawnVolume.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Collider.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\ColliderMovementComponent.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Critter.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FirstProject.init.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FirstProjectGameModeBase.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FloatingPlatform.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\FloorSwitch.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Main.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\MainAnimInstance.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\MyObject.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\SpawnVolume.gen.cpp.obj"
+"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\Default.rc2.res"
+/OUT:"D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FirstProject\UE4Editor-FirstProject-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_FirstProject

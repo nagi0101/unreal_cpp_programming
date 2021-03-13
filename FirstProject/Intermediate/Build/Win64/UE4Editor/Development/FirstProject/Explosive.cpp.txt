@@ -1,0 +1,5 @@
+D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+D:\Coding\unreal Engine 4\FirstProject\Source\FirstProject\Explosive.h
+D:\Coding\unreal Engine 4\FirstProject\Source\FirstProject\Item.h
+D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+D:\Coding\unreal Engine 4\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Explosive.generated.h
