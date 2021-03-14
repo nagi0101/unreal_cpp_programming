@@ -3,7 +3,8 @@
 
 #include "Pickup.h"
 
-APickup::APickup() {
+APickup::APickup()
+{
 
 }
 
