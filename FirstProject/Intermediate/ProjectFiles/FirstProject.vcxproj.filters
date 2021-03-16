@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FirstProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{150B157A-FC41-45D8-9625-54C19DED544A}</UniqueIdentifier>
+      <UniqueIdentifier>{E41EA3F2-5F3D-45F4-9551-B47E1FFDD477}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FirstProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{646783E8-889B-4282-92CA-6BA6BA76B310}</UniqueIdentifier>
+      <UniqueIdentifier>{4ED27E63-0A68-4A2A-A3A2-138EF56F64A1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FirstProject">
-      <UniqueIdentifier>{569D9F86-BDE7-4DD3-8394-E00C5AD9FE0F}</UniqueIdentifier>
+      <UniqueIdentifier>{9A335825-27CA-4BF8-B014-34284A982BCD}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FirstProject\Collider.cpp">
       <Filter>Source\FirstProject</Filter>
@@ -96,6 +96,12 @@
       <Filter>Source\FirstProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FirstProject\MainAnimInstance.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\MainPlayerController.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\MainPlayerController.h">
       <Filter>Source\FirstProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\FirstProject\MyObject.cpp">

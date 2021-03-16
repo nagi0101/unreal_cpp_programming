@@ -1,0 +1,3 @@
+D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\MainPlayerController.h
+D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\MainPlayerController.generated.h
