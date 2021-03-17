@@ -47,7 +47,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Player Stats")
 	float Stemina;
 
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Player Stats")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Player Stats")
 	int32 Coins;
 
 protected:
