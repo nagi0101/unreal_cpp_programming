@@ -3,3 +3,9 @@ D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\Pickup.h
 D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\Item.h
 D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
 D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Pickup.generated.h
+D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\Main.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
