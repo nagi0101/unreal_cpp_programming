@@ -152,11 +152,19 @@ void EmptyLinkFunctionForGeneratedCodeMain() {}
 		P_THIS->SetMovementStatus(EMovementStatus(Z_Param_Status));
 		P_NATIVE_END;
 	}
+	DEFINE_FUNCTION(AMain::execShowPickupLocations)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->ShowPickupLocations();
+		P_NATIVE_END;
+	}
 	void AMain::StaticRegisterNativesAMain()
 	{
 		UClass* Class = AMain::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "SetMovementStatus", &AMain::execSetMovementStatus },
+			{ "ShowPickupLocations", &AMain::execShowPickupLocations },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -194,6 +202,28 @@ void EmptyLinkFunctionForGeneratedCodeMain() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AMain_SetMovementStatus_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AMain_ShowPickupLocations_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AMain_ShowPickupLocations_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Main.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AMain_ShowPickupLocations_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMain, nullptr, "ShowPickupLocations", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AMain_ShowPickupLocations_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AMain_ShowPickupLocations_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AMain_ShowPickupLocations()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AMain_ShowPickupLocations_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -280,6 +310,7 @@ void EmptyLinkFunctionForGeneratedCodeMain() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AMain_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AMain_SetMovementStatus, "SetMovementStatus" }, // 2012261425
+		{ &Z_Construct_UFunction_AMain_ShowPickupLocations, "ShowPickupLocations" }, // 488232727
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMain_Statics::Class_MetaDataParams[] = {
@@ -453,7 +484,7 @@ void EmptyLinkFunctionForGeneratedCodeMain() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMain, 2464102094);
+	IMPLEMENT_CLASS(AMain, 2890252283);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AMain>()
 	{
 		return AMain::StaticClass();

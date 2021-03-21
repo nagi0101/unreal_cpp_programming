@@ -10,6 +10,10 @@ void UMainAnimInstance::NativeInitializeAnimation()
 	if (Pawn == nullptr)
 	{
 		Pawn = TryGetPawnOwner();
+		if (Pawn)
+		{
+			Main = Cast<AMain>(Pawn);
+		}
 	}
 }
 

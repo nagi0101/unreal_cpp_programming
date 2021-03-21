@@ -17,12 +17,14 @@ enum class EMovementStatus : uint8;
 #define FirstProject_Source_FirstProject_Main_h_32_SPARSE_DATA
 #define FirstProject_Source_FirstProject_Main_h_32_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execSetMovementStatus);
+	DECLARE_FUNCTION(execSetMovementStatus); \
+	DECLARE_FUNCTION(execShowPickupLocations);
 
 
 #define FirstProject_Source_FirstProject_Main_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execSetMovementStatus);
+	DECLARE_FUNCTION(execSetMovementStatus); \
+	DECLARE_FUNCTION(execShowPickupLocations);
 
 
 #define FirstProject_Source_FirstProject_Main_h_32_INCLASS_NO_PURE_DECLS \
