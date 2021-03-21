@@ -22,6 +22,7 @@
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MyObject.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Pickup.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\SpawnVolume.cpp.obj"
+"D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Weapon.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Collider.gen.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\ColliderMovementComponent.gen.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Critter.gen.cpp.obj"
@@ -37,6 +38,7 @@
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MyObject.gen.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Pickup.gen.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\SpawnVolume.gen.cpp.obj"
+"D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Weapon.gen.cpp.obj"
 "D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Default.rc2.res"
 /OUT:"D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0047.lib"
 /INCLUDE:IMPLEMENT_MODULE_FirstProject

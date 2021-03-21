@@ -24,6 +24,7 @@ void AExplosive::OnOverlapBegin(
 		if (Main)
 		{
 			Main->DecrementHealth(Damage);
+			Destroy();
 		}
 	}
 }

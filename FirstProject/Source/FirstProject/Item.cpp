@@ -68,7 +68,6 @@ void AItem::OnOverlapBegin(
 	if (OverlapSound) {
 		UGameplayStatics::PlaySound2D(this, OverlapSound);
 	}
-	Destroy();
 }
 
 void AItem::OnOverlapEnd(
