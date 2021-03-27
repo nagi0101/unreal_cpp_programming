@@ -34,3 +34,7 @@ D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UOb
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\Weapon.h
+D:\Coding\unreal_cpp_programming\FirstProject\Source\FirstProject\Item.h
+D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+D:\Coding\unreal_cpp_programming\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
